@@ -1,7 +1,7 @@
 # pclub_rec_app
 
 A new Flutter project.
-website: https://adarshraj241408.github.io/Pclub_EBAY_app/
+website: https://adarshraj241408.github.io/Pclub_EBAY_webApp/
 
 ## HomePage
 #### Filter scroll
