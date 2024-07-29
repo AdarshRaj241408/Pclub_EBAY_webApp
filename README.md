@@ -2,6 +2,7 @@
 
 A new Flutter project.
 website: https://adarshraj241408.github.io/Pclub_EBAY_webApp/
+designned for mobile users.
 
 ## HomePage
 #### Filter scroll
